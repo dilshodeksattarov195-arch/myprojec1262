@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercender",
+        "uuid": 9767880,
+        "checksum": "et4p6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
